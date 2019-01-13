@@ -1,0 +1,14 @@
+D:\Developpement\C#\BurningBot\BurningBot\bin\Debug\BurningBot.exe.config
+D:\Developpement\C#\BurningBot\BurningBot\bin\Debug\BurningBot.exe
+D:\Developpement\C#\BurningBot\BurningBot\bin\Debug\BurningBot.pdb
+D:\Developpement\C#\BurningBot\BurningBot\obj\Debug\BurningBot.csprojAssemblyReference.cache
+D:\Developpement\C#\BurningBot\BurningBot\obj\Debug\BurningBot.csproj.CoreCompileInputs.cache
+D:\Developpement\C#\BurningBot\BurningBot\obj\Debug\BurningBot.exe
+D:\Developpement\C#\BurningBot\BurningBot\obj\Debug\BurningBot.pdb
+D:\Developpement\C#\BurningBot\BurningBot\obj\Debug\BurningBot.csproj.GenerateResource.cache
+D:\Developpement\C#\BurningBot\BurningBot\obj\Debug\BurningBot.Design.BotForm.resources
+D:\Developpement\C#\BurningBot\BurningBot\bin\Debug\MetroFramework.Design.dll
+D:\Developpement\C#\BurningBot\BurningBot\bin\Debug\MetroFramework.dll
+D:\Developpement\C#\BurningBot\BurningBot\bin\Debug\MetroFramework.Fonts.dll
+D:\Developpement\C#\BurningBot\BurningBot\obj\Debug\BurningBot.csproj.CopyComplete
+D:\Developpement\C#\BurningBot\BurningBot\obj\Debug\BurningBot.Properties.Resources.resources
