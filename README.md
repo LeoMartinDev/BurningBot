@@ -1,2 +1,2 @@
-# BurgninBOT
-Bot for Dofus 1.29 in C#.
+# BurningBot
+Bot pour le MMORPG Dofus 1.29.1 en C#.
